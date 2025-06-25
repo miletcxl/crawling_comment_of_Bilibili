@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.db
+*.log
+/temp/
+/venv/
+*.env
+.DS_Store
+analysis_rep/
+reports/
